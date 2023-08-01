@@ -1,8 +1,6 @@
 
 We can set up a wiki using [Obsidian](https://obsidian.md) as the markdown text editor and the [Obsidian Git](https://github.com/denolehov/obsidian-git/wiki/Installation) plugin.
 
-@@html:<iframe name="embed_readwrite" src="https://pad.vvvvvvaria.org/wiki_pad_links?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width="100%" height="600" frameborder="0"></iframe>
-@@
 
 # Plugin setup:
 
@@ -58,8 +56,5 @@ Note: any notes you create outside the repo folder will remain local to your mac
 
 # Committing and Pushing:
 
-A good way to figure out how to use this "workflow", and Obsidian, is by going to the How Tos folder and/or into the [[Make your member page]] document ("cmd" + click on its name in Obsidian and it will take you there in a new tab) and follow the instructions.  
+Keep in mind that you need to keep the git workflow in mind, so after you've create any new page, go back into the command palette and do "Git Commit all changes", and then bring it up again and do "Git Push". 
 
-Keep in mind that you need to keep the git workflow in mind, so after you've made your member note go back into the command palette and do "Git Commit all changes", and then bring it up again and do "Git Push". 
-
-Your member note should now be on the Repository on the In-grid github!
