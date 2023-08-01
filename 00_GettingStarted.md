@@ -32,7 +32,7 @@ Once its generated save it somewhere you can easily copy/paste from when cloning
 
 ##### Create a folder in your Vault:
 
-Create a folder where you want to clone the In-grid wiki. This will be the place where you add and make all your changes. You can call it inGridWiki to match the Repo and make life easy (it's fine if you've already named the Vault folder the same thing)
+Create a folder where you want to clone the wiki. This will be the place where you add and make all your changes. You can call it [name]Wiki to match the Repo and make life easy (it's fine if you've already named the Vault folder the same thing)
 
 ##### Clone Remote Repo
 
@@ -41,7 +41,7 @@ Now that the Obsidian Git plugin is enabled, open up the Command Palette by typi
 In the bar that comes up, paste the link of the repo in this format:
 
 ```
-https://ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX@github.com/In-grid-collective/inGridWiki.git
+https://ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX@github.com/In-grid-collective/[name]Wiki.git
 ```
 
 Replace the "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" with your token generated earlier. 
