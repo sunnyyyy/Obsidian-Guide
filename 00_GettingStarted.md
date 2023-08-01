@@ -41,7 +41,7 @@ Now that the Obsidian Git plugin is enabled, open up the Command Palette by typi
 In the bar that comes up, paste the link of the repo in this format:
 
 ```
-https://ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX@github.com/foldername/[name]Wiki.git
+https://ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX@github.com/[Github-folder-name]/[name]Wiki.git
 ```
 
 Replace the "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" with your token generated earlier. 
